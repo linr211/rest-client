@@ -1,6 +1,5 @@
 # REST Client -- simple DSL for accessing HTTP and REST resources
 
-
 [![Gem Downloads](https://img.shields.io/gem/dt/rest-client.svg)](https://rubygems.org/gems/rest-client)
 [![Build Status](https://travis-ci.org/rest-client/rest-client.svg?branch=master)](https://travis-ci.org/rest-client/rest-client)
 [![Code Climate](https://codeclimate.com/github/rest-client/rest-client.svg)](https://codeclimate.com/github/rest-client/rest-client)
